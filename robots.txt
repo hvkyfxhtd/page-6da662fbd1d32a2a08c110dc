@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-8570f71f36.mhftuza.cn/sitemap.xml
